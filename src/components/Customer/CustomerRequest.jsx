@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import UploadSection from "./UploadSection";
 import StyleTags from "./StyleTags";
 import Measurements from "./Measurements";

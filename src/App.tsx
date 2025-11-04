@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Welcome from "./components/Welcome/Welcome";
 import DesignerOnboard from "./components/Designer/DesignerOnboard";
 import CustomRequest from "./components/Customer/CustomerRequest";
